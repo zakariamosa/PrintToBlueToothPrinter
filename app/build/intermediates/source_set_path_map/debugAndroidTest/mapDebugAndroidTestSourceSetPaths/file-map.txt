@@ -1,0 +1,6 @@
+com.example.printtobluetouthprinter.test.app-tracing-1.2.0-0 C:\Users\l\.gradle\caches\8.10.2\transforms\4391698532639bd6c851f1b4d41043f6\transformed\tracing-1.2.0\res
+com.example.printtobluetouthprinter.test.app-core-1.6.1-1 C:\Users\l\.gradle\caches\8.10.2\transforms\a33010394dd865b6d5269575d2d15b2c\transformed\core-1.6.1\res
+com.example.printtobluetouthprinter.test.app-androidTest-2 C:\Users\l\Desktop\Learn\printDemo\app\build\generated\res\resValues\androidTest\debug
+com.example.printtobluetouthprinter.test.app-mergeDebugAndroidTestResources-3 C:\Users\l\Desktop\Learn\printDemo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.printtobluetouthprinter.test.app-mergeDebugAndroidTestResources-4 C:\Users\l\Desktop\Learn\printDemo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.printtobluetouthprinter.test.app-debugAndroidTest-5 C:\Users\l\Desktop\Learn\printDemo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
